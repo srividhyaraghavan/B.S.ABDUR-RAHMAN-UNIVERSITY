@@ -1,0 +1,1 @@
+Account number: $id || Account Type: $acctype || balance: $bal
